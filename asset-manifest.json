@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/bootcamp-high-card/static/css/main.b19de338.css",
+    "main.css": "/bootcamp-high-card/static/css/main.d74da8a5.css",
     "main.js": "/bootcamp-high-card/static/js/main.2380efb5.js",
     "index.html": "/bootcamp-high-card/index.html",
-    "main.b19de338.css.map": "/bootcamp-high-card/static/css/main.b19de338.css.map",
+    "main.d74da8a5.css.map": "/bootcamp-high-card/static/css/main.d74da8a5.css.map",
     "main.2380efb5.js.map": "/bootcamp-high-card/static/js/main.2380efb5.js.map"
   },
   "entrypoints": [
-    "static/css/main.b19de338.css",
+    "static/css/main.d74da8a5.css",
     "static/js/main.2380efb5.js"
   ]
 }
